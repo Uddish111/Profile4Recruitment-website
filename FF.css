@@ -1,0 +1,75 @@
+html{font-family: sans-serif;
+}
+body{
+
+	background-image: linear-gradient( to seagreen,white);
+    background-repeat: no-repeat;
+	background-size:auto;
+}
+aside{
+	padding-right: 
+    padding-right: 40px;
+    background-color: ;
+}
+table{
+	width: 800px;
+	max-width:800px;
+	margin:1rem;
+	padding: 2rem;
+	box-shadow:0 0 40px rgba(0,0,0,0.2);
+	background:#ffffff;
+	table-layout: auto;
+
+}
+header{
+	background-image: linear-gradient(to right ,white,white,seagreen);
+     	
+}
+.navdiv{
+	background-color: seagreen;
+	margin-top: 2rem;
+	background-size: height:5rem;
+}
+.form__button{
+	background-color: black;
+	padding: 1rem 1rem;
+	font-weight: bold;
+	font-size: 1.1rem;
+	color: #ffffff;
+	border: none;
+	border-radius: 4px;
+	outline:;
+	cursor:pointer;
+	background:seagreen;
+	margin-top: 2rem;
+	margin-right: 1rem;
+
+
+}
+.form__button:hover{
+	background: #007f67;
+}
+.form__button:active{
+	transform:scale(0.98);
+}
+.box {
+	font-color:white;
+  border-radius: 15px 50px 15px 50px;
+  box-shadow:0 0 8px rgb(102,205,170);
+  background-color: seagreen;
+  float: right;
+  width: 33.33%;
+  padding: 50px;
+}
+head{
+	background-color: grey
+}
+h1{
+	text-align: right;
+}
+h2{
+	text-align: right;
+}
+footer{
+	background-color: seagreen;
+}
