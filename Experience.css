@@ -1,6 +1,6 @@
 html{
 		background-image: linear-gradient( to bottom right ,palegreen,white,aliceblue,palegreen,white);
-    background-repeat:repeat;
+    background-repeat:none;
 	background-size:cover;
 }
 head{
